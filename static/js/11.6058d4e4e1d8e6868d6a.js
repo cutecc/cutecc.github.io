@@ -1,0 +1,2 @@
+webpackJsonp([11],{PP3p:function(e,t){},pMUv:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var c={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("消息公告")])},staticRenderFns:[]};var r=n("Z0/y")({name:"msg_notice"},c,!1,function(e){n("PP3p")},"data-v-cc38ef78",null);t.default=r.exports}});
+//# sourceMappingURL=11.6058d4e4e1d8e6868d6a.js.map

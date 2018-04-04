@@ -1,0 +1,2 @@
+webpackJsonp([15],{W73v:function(e,t){},YA4r:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("系统消息")])},staticRenderFns:[]};var s=n("Z0/y")({name:"msg_system-notice"},r,!1,function(e){n("W73v")},"data-v-5f47f4da",null);t.default=s.exports}});
+//# sourceMappingURL=15.25b81c06d5b08b42e26a.js.map
