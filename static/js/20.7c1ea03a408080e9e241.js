@@ -1,2 +1,0 @@
-webpackJsonp([20],{VNUR:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var c={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n  teach\n")])},staticRenderFns:[]};var r=n("Z0/y")({name:"teach-child"},c,!1,function(e){n("rvqe")},"data-v-00fcca66",null);t.default=r.exports},rvqe:function(e,t){}});
-//# sourceMappingURL=20.7c1ea03a408080e9e241.js.map
