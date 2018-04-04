@@ -2,58 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9242ef4-de53-4cf0-97d6-0da067fa67d0" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/sw.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/static/css/app.6d2e029034edf3d5497a73daaafb54ff.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/css/app.6d2e029034edf3d5497a73daaafb54ff.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/0.aec5f5c7194823f28d10.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/0.aec5f5c7194823f28d10.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/1.6b0aee5842cab9975f2c.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/1.6b0aee5842cab9975f2c.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/10.a91155e1e315e319bfca.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/10.a91155e1e315e319bfca.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/11.6058d4e4e1d8e6868d6a.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/11.6058d4e4e1d8e6868d6a.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/12.2d3498df910ab003d1f7.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/12.2d3498df910ab003d1f7.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/13.0caf35b740febbcdfa19.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/13.0caf35b740febbcdfa19.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/14.c60456bd5047d79971cd.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/14.c60456bd5047d79971cd.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/15.25b81c06d5b08b42e26a.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/15.25b81c06d5b08b42e26a.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/16.5277ca98660c7d228d63.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/16.5277ca98660c7d228d63.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/17.7c4a7bd0ab60b934e32f.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/17.7c4a7bd0ab60b934e32f.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/18.fdb04bce8b2fe49ff112.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/18.fdb04bce8b2fe49ff112.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/19.c0b61750d1b6b8edd5e4.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/19.c0b61750d1b6b8edd5e4.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/2.4d90b43beff7a10eb4b2.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/2.4d90b43beff7a10eb4b2.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/20.7c1ea03a408080e9e241.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/20.7c1ea03a408080e9e241.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/3.dd97dff0d5336fbcc6a4.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/3.dd97dff0d5336fbcc6a4.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/4.6309a2197f25c9789055.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/4.6309a2197f25c9789055.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/5.f46342137c74a0d509d2.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/5.f46342137c74a0d509d2.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/6.84ed2ccc6c6f4ce7cdfc.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/6.84ed2ccc6c6f4ce7cdfc.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/7.3d1003e6ed0895383902.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/7.3d1003e6ed0895383902.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/8.5866888cf6154b3d6cde.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/8.5866888cf6154b3d6cde.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/9.2336e0cc667511446aa2.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/9.2336e0cc667511446aa2.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/app.7298b3421c6c4fc678a7.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/app.7298b3421c6c4fc678a7.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/manifest.b5a31f73aa06b9fd403f.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/manifest.b5a31f73aa06b9fd403f.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/vendor.d31a752023b69b7bb7a0.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/js/vendor.d31a752023b69b7bb7a0.js.map" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -77,21 +27,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="17" />
+            <state relative-caret-position="19">
+              <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sw.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sw.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sw.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="76">
+              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -130,8 +80,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="521" />
-    <option name="y" value="37" />
+    <option name="x" value="368" />
+    <option name="y" value="35" />
     <option name="width" value="1271" />
     <option name="height" value="997" />
   </component>
@@ -207,18 +157,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522822241497</updated>
-      <workItem from="1522822242814" duration="4567000" />
+      <workItem from="1522822242814" duration="4835000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4567000" />
+    <option name="totallyTimeSpent" value="4835000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="521" y="37" width="1271" height="997" extended-state="0" />
-    <editor active="true" />
+    <frame x="368" y="35" width="1271" height="997" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29927006" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29927006" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -280,18 +229,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/sw.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="17" />
+        <state relative-caret-position="76">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sw.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="19">
+          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
           <folding />
         </state>
       </provider>
