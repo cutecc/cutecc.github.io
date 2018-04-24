@@ -3,3 +3,6 @@ self.addEventListener('fetch', function(event) {
     event.respondWith(fetch('/images/unicorn.jpg'));
   }
 });
+
+
+
